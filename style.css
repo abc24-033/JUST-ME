@@ -46,7 +46,7 @@ font-size: 1.1em;
 }
  
 a {
-color: ##000000;
+color: #D1B097;
 text-decoration: none;
 }
  
@@ -55,7 +55,7 @@ text-decoration: underline;
 }
  
  img {
-border: 5px solid ##000000;
+border: 5px solid  #D1B097;
 border-radius: 10px;
 }
  main a[href^="mailto:"] {
