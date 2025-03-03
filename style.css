@@ -3,15 +3,15 @@ property: value;
 }
  body {
 font-family: Times New Roman;
-color: #FFFFFF;
+color: #gold;
 background-color: #FFC107;
 margin: 0;
 padding: 0;
 line-height: 1.6;
 }
  header {
-background-color: #FFFFFF;
-color: white;
+background-color: #000000;
+color: black;
 padding: 20px;
 text-align: center;
 }
