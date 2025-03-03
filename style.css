@@ -21,8 +21,16 @@ margin: 0;
 }
  
 nav a {
-color: gold;
+color: white;
 text-decoration: underline;
+ @keyframes slideUnderline {
+            from {
+                width: 0;
+                left: 50%;
+            }
+            to {
+                width: 100%;
+                left: 0;
 margin: 0 10px;
 }
  
