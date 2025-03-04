@@ -62,4 +62,13 @@ border-radius: 10px;
 color: #ff5722;
 font-weight: bold;
 }
- 
+footer {
+
+text-align: center;
+
+padding: 10px;
+
+position: fixed;
+
+}
+
