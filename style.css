@@ -62,6 +62,7 @@ border-radius: 10px;
  main a[href^="mailto:"] {
 color: #ff5722;
 font-weight: bold;
+  text-align: center;
 }
 footer {
 
